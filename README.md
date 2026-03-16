@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shishir M S</h1>
+<h1 align="center">Hi , I'm Shishir M S</h1>
 <h3 align="center">A passionate ML Engineer</h3>
 
 - 📫 How to reach me **shishirms2007@gmail.com**
